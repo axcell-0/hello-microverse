@@ -58,9 +58,6 @@ This project is a Hello Microverse repository. No complex coding is required for
 
 - [] comming soon
 
-
-- [Live Demo Link](https://google.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
